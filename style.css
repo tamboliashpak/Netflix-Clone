@@ -240,10 +240,25 @@ nav .logo img {
 .contact {
   color: white;
   max-width: 75vw;
-  margin: auto;
+  margin: 55px auto 0 auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgba(216, 209, 209, 0.78);
 }
 
 .contact ul {
   list-style: none;
-  display: flex;
+  display: grid;
+  margin-top: 15px;
+  grid-template-columns: 250px 250px 250px 250px;
+  justify-content: space-between;
+}
+
+.contact ul li {
+  padding: 15px 0 0 0;
+  text-decoration: underline;
+  font-size: 14px;
+}
+
+.contact .span a {
+  color: rgba(216, 209, 209, 0.78);
 }
