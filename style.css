@@ -263,7 +263,7 @@ nav .logo img {
   color: rgba(216, 209, 209, 0.78);
 }
 
-.contact .lang-2{
+.contact .lang-2 {
   border: 1px solid rgba(96, 94, 94, 0.8);
   border-radius: 4px;
   padding: 6px 12px 6px 12px;
@@ -272,7 +272,7 @@ nav .logo img {
   margin: 25px 0;
 }
 
-.contact span{
+.contact span {
   display: block;
- margin-bottom: 50px;
+  margin-bottom: 50px;
 }
